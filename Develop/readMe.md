@@ -11,7 +11,7 @@
  ## Installation
  use npm i and inquierer
  ## Usage
- To create a read me file with prompts on the command line.To start go to the command line and type "node index.js"
+  To create a read me file with prompts on the command line.To start go to the command line and type "node index.js"
  ## License
  undefined
  ![GitHub badge](https://img.shields.io/badge/License-GPLv3-blue.svg)
@@ -20,8 +20,7 @@
  github
  
  ## Tests
- To test to make sure you have everything you need put "npm run test" in your command line.
+  To test to make sure you have everything you need put "npm run test" in your command line.
  ## Questions
  My GitHub: [asmitt8373](https://github.com/asmitt8373)
  Email me: austinsmittle8373@gmail.com
-}
